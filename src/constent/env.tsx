@@ -1,0 +1,1 @@
+export const PROD_URL = 'http://15.152.255.78'
